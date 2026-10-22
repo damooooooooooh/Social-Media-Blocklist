@@ -1,0 +1,16 @@
+@@||accounts.snapchat.com^$important
+@@||www.snapchat.com^$important
+@@||web.snapchat.com^$important
+@@|*.api.sc-gw.com^$important
+# Allows chats without media
+@@||*gcp*.api.snapchat.com^$important
+# Unlocks all media, and photo messages
+||bolt-gcdn.sc-cdn.net^$important
+# Unlocks feeds and media not message media
+||cf-st.sc-cdn.net^$important
+# Unknown
+@@||aws-proxy-gcp.api.snapchat.com^$important
+# Unknown
+@@||gcp.api.snapchat.com^$important
+# Unknown
+@@||usc*-gcp-*.api.snapchat.com^$important
